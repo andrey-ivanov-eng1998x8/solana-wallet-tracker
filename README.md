@@ -32,4 +32,4 @@ python soltracker.py --rpc https://api.mainnet-beta.solana.com --wallets wallet1
 - Token mints are looked up via a tiny hardcoded cache of common ones (USDC, USDT, SOL wrapped, etc). Unknown mints print raw.
 - I keep my real wallet list in a shell wrapper, not in here.
 
-<!-- verified: 2026-10-05 -->
+<!-- verified: 2026-10-06 -->
